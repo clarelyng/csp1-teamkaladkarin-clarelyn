@@ -95,16 +95,18 @@ hr {
 	font-size: 26px;
 	font-weight: 600;
 	color: #eee;
+	text-shadow: 1px 2px 20px #6aaf08;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
-	color: #ddd;
+	color: gray;
 	font-size: 15px;
 	font-weight: 400;
 	letter-spacing: 1px;
 	padding: 8px 2px;
 	border-radius: 0;
 	margin: 9px 20px 0 20px;
+	text-shadow: 3px 3px 20px black;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
 	color: #6aaf08;
